@@ -124,8 +124,8 @@ This course is open to all students who meet the academic requirements for parti
 
 | Unit   | Week | Day | Topic | Readings | Assignment |
 | --- | --- | --- | --- | --- |  --- |
-| Fundamentals of Large-Scale Computing | Week 1: Introduction to Large-Scale Computing for the Social Sciences (3/24-3/28) | Day 1 | Introduction to the Course | | |
-|   |   | Day 2 | General Considerations for Large-Scale Computing  | [Robey and Zamora 2021 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1), [Faster code via static typing (Cython)](http://docs.cython.org/en/latest/src/quickstart/cythonize.html), [A ~5 minute guide to Numba](https://numba.readthedocs.io/en/stable/user/5minguide.html) |   |
+| Fundamentals of Large-Scale Computing | Week 1: Introduction to Large-Scale Computing for the Social Sciences (3/24-3/28) | Day 1 | Introduction to the Course + Code Optimization with Cython/Numba | [Faster code via static typing (Cython)](http://docs.cython.org/en/latest/src/quickstart/cythonize.html), [A ~5 minute guide to Numba](https://numba.readthedocs.io/en/stable/user/5minguide.html) | |
+|   |   | Day 2 | General Considerations for Large-Scale Computing  | [Robey and Zamora 2021 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1) |   |
 | | Week 2: On-Premise Large-Scale CPU-computing with MPI (3/31-4/4) | Day 1 | An Introduction to Computing Clusters and CPU Hardware considerations | Pacheco 2011 (Ch. 1-2; on Canvas) | |
 | | | Day 2 | Cluster Computing via Message Passing Interface (MPI) for Python | Pacheco 2011 (Ch. 3; on Canvas), [Dalcín et al. 2008](https://www-sciencedirect-com.proxy.uchicago.edu/science/article/pii/S0743731507001712?via%3Dihub) | |
 | | Week 3: On-Premise GPU-computing (4/7-4/11) | Day 1 | An Introduction to GPUs and GPU Programming | Cheng et al. 2014 (Ch. 1; on Canvas) | |
