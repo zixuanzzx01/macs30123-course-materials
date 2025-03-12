@@ -124,7 +124,7 @@ This course is open to all students who meet the academic requirements for parti
 
 | Unit   | Week | Day | Topic | Readings | Assignment |
 | --- | --- | --- | --- | --- |  --- |
-| Fundamentals of Large-Scale Computing | Week 1: Introduction to Large-Scale Computing for the Social Sciences (3/24-3/29) | Day 1 | Introduction to the Course | | |
+| Fundamentals of Large-Scale Computing | Week 1: Introduction to Large-Scale Computing for the Social Sciences (3/24-3/28) | Day 1 | Introduction to the Course | | |
 |   |   | Day 2 | General Considerations for Large-Scale Computing  | [Robey and Zamora 2021 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1), [Faster code via static typing (Cython)](http://docs.cython.org/en/latest/src/quickstart/cythonize.html), [A ~5 minute guide to Numba](https://numba.readthedocs.io/en/stable/user/5minguide.html) |   |
 | | Week 2: On-Premise Large-Scale CPU-computing with MPI (3/31-4/4) | Day 1 | An Introduction to Computing Clusters and CPU Hardware considerations | Pacheco 2011 (Ch. 1-2; on Canvas) | |
 | | | Day 2 | Cluster Computing via Message Passing Interface (MPI) for Python | Pacheco 2011 (Ch. 3; on Canvas), [Dalcín et al. 2008](https://www-sciencedirect-com.proxy.uchicago.edu/science/article/pii/S0743731507001712?via%3Dihub) | |
@@ -142,7 +142,7 @@ This course is open to all students who meet the academic requirements for parti
 | | | Day 2 | Accelerating Dask |  | |
 | | Week 9: Presenting Data and Insights from Large-Scale Data Pipelines (5/19-5/23)| Day 1 | Building and Deploying (Scalable) Public APIs and Web Applications with Flask and AWS Elastic Beanstalk | Documentation for [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) and skim through the [Flask "Forward"](https://web.archive.org/web/20211106135422/https://flask-doc.readthedocs.io/en/latest/foreword.html) as well as the [current documentation](https://flask.palletsprojects.com/) | |
 || | Day 2 | Visualizing Large Data | Documentation for [DataShader](https://datashader.org/index.html) and [Bokeh](https://bokeh.org/), and integrating the two libraries using [HoloViews](http://holoviews.org/user_guide/Large_Data.html) | Due: Assignment 3 (Wednesday, 5/21, 11:59 PM) |
-| Student Projects | Week 10: Final Projects | 5/30/2025 ||| Due: Final Project + Presentation Video (11:59 PM) |
+| Student Projects | Week 10: Final Projects (5/26-5/30) | ||| Due: Final Project + Presentation Video (Friday, 5/30, 11:59 PM) |
 
 ## Works Cited
 
