@@ -128,7 +128,7 @@ This course is open to all students who meet the academic requirements for parti
 |   |   | Day 2 | General Considerations for Large-Scale Computing  | [Robey and Zamora 2021 (Chapter 1)](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1) |   |
 | | Week 2: On-Premise Large-Scale CPU-computing with MPI (3/31-4/4) | Day 1 | An Introduction to Computing Clusters and CPU Hardware considerations | Pacheco 2011 (Ch. 1-2; on Canvas) | |
 | | | Day 2 | Cluster Computing via Message Passing Interface (MPI) for Python | Pacheco 2011 (Ch. 3; on Canvas), [Dalcín et al. 2008](https://www-sciencedirect-com.proxy.uchicago.edu/science/article/pii/S0743731507001712?via%3Dihub) | |
-| | Week 3: On-Premise GPU-computing (4/7-4/11) | Day 1 | An Introduction to GPUs and GPU Programming | Cheng et al. 2014 (Ch. 1; on Canvas) | |
+| | Week 3: On-Premise GPU-computing (4/7-4/11) | Day 1 | An Introduction to GPUs and GPU Programming | Cheng et al. 2014 (Ch. 1; on Canvas), Scarpino 2012 (Ch. 1; on Canvas) | |
 | | | Day 2 | Harnessing GPUs in Python | [Klöckner et al. 2012 "PyCUDA and PyOpenCL"](https://arxiv.org/pdf/0911.3456.pdf) | |
 | Architecting Computational Social Science Data Solutions in the Cloud | Week 4: An Introduction to Cloud Computing and Cloud HPC Architectures (4/14-4/18) | Day 1 | Bursting HPC into the Cloud | Jorissen and Bouffler 2017 (Read Ch. 1, Skim Ch. 4-7; on Canvas), [Armbrust et al. 2009](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf), [Introduction to HPC on AWS](https://d1.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf), [HPC Architectural Best Practices](https://docs.aws.amazon.com/wellarchitected/latest/high-performance-computing-lens/general-design-principles.html) (focus on the "General Design Principles" and "Scenarios" sections) | |
 | | | Day 2 | An Introduction to Boto3 and Serverless HPC | [Jonas et al. 2019](https://arxiv.org/pdf/1902.03383.pdf), ["What is AWS Lambda"](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html), ["What is AWS Step Functions?"](https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html), [Boto3 Documentation (skim)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) | Due: Assignment 1 (Wednesday, 4/16, 11:59 PM) |
@@ -211,6 +211,8 @@ Petrossian, Tony, and Ian Meyers. November 30, 2017. "Which Database to Use When
 Pirtle, Justin. December 8, 2020. "Scalable serverless event-driven architectures with SNS, SQS, and Lambda." https://www.youtube.com/watch?v=8zysQqxgj0I. AWS re:Invent 2020.
 
 Robey, Robert and Yuliana Zamora. 2021. *Parallel and High Performance Computing*. Shelter Island, NY: Manning.
+
+Scarpino, Matthew. 2012. OpenCL in Action. Shelter Island, NY: Manning.
 
 Sergeev, Alex. March 28, 2019. "Distributed Deep Learning with Horovod." https://www.youtube.com/watch?v=D1By2hy4Ecw.
 
