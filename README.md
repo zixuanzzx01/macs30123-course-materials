@@ -21,8 +21,9 @@
 * Instructor: Fabricio Vasselai
   * 1155 E. 60th Street, Rm. 213A
   * vasselai@uchicago.edu
-  * Office Hours:
-    * TBD
+  * Office Hours ([Schedule an Appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2hU1uZImWKoOBzG8upUGkyGMx0XoL-0Eod7u1yIOnJYbfbLgZ-GVeGTUF51GF1Fgpjjqp4F5hc)):
+    * Mondays: remote, variable times.
+    * Tuesdays and Thursdays 5:00pm-6:30pm in person at 1155 E. 60th St., Rm 213A.
 * Course Information:
   * Location: 1155 E. 60th Street, Rm. 295
   * Time: Tuesday/Thursday Lecture from 12:30-1:50 PM, Friday Lab Section from 1:30-2:50 PM
@@ -35,7 +36,10 @@
 | Nalin Bhatt               | Ethan Kozlowski              | Max Zhu                |
 |                           |                         |                        |
 | nalinb@uchicago.edu     | ethanjkozlowski@uchicago.edu    | maxzhuyt@uchicago.edu    |
-| **Office Hours:** TBD | **Office Hours:**  TBD | **Office Hours:** TBD |
+| **Office Hours:** M/W, 3:30-4:30pm | **Office Hours:**  W, 1:00-3:00pm | **Office Hours:** F, 10:00am-12:00pm |
+| 1155 E. 60th St., Rm 226-A | 1155 E. 60th St., Rm 222 | 1155 E. 60th St., Rm 222 |
+
+
 
 ## Course Description
 Computational social scientists increasingly need to grapple with data that is too big and code that is too resource intensive to run on a local machine. Using Python, students in this course will learn how to effectively scale their computational methods beyond their local machines -- optimizing and parallelizing their code across clusters of CPUs and GPUs, both on-premises and in the cloud. The focus of the course will be on social scientific applications, such as: accelerating social simulations by several orders of magnitude, processing large amounts of social media data in real-time, and training machine learning models on economic datasets that are too large for an average laptop to handle.
